@@ -23,7 +23,7 @@ git clone https://github.com/kongchen1992/sfc-3dv-2016.git
 ####Download PASCAL3D+ (optional)
 A series of annotated 2D chairs is included in this repository, which is stored in `data/chair_pascal.mat`.
 As a result, PASCAL3D+ dataset is not required in terms of running the demo.
-However, if you want see the images where these 2D annotations come from and compare the estimated 3D structures against them, you have to download [`PASCAL3D+`](ftp://cs.stanford.edu/cs/cvgl/PASCAL3D+_release1.1.zip) and pass the path to the function `visualize.m`.
+However, if you want see the images where these 2D annotations come from and compare the estimated 3D structures against them, you have to download [PASCAL3D+](http://cvgl.stanford.edu/projects/pascal3d.html) and pass the path to the function `visualize.m`.
 
 ## Guide
 ####Running demo
